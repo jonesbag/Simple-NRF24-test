@@ -12,3 +12,5 @@
 
 This is just a way to see whether the hardware is defective or not. I am not responsible if you fry
 your device by connecting wrong.
+
+You will need the RF24 library found at: https://github.com/nRF24/RF24
